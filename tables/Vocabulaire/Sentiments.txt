@@ -1,0 +1,47 @@
+ANG,FR
+joyful,joyeux
+happy,heureux
+enthusiastic,enthousiaste
+optimistic,optimiste
+satisfied,satisfait
+proud,ier
+touched,ému
+excited,excité
+kindly,bienveillant
+surprised,surpris
+in love,amoureux
+passionate,passionné
+livley,plein d’entrain
+cheerful,gai
+appreciative,admiratif
+glad,content
+delighted,enchanté
+confident,confiant
+afraid,apeuré
+scared,effrayé
+furious,furieux
+sad,triste
+discouraged,découragé
+bitter,amer
+bored,ennuyé
+angryen,colère
+weary,las
+shocked,choqué
+annoyed,agacé
+agressive,agressif
+disappointed,déçu
+exhausted,épuisé
+discontented,mécontent
+pessimistic,pessimiste
+irritated,irrité
+jealous,jaloux
+nervous,nerveux
+stressed,stressé
+tired,fatigué
+worried,angoissé
+weight,poids
+by weight,au poids
+to weight,peser
+heavy,lourd
+weighty,lourd
+light,léger

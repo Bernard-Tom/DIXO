@@ -1,0 +1,117 @@
+FR,ANG
+le bricolage,do-it-yourself
+la menuiserie,woodwork
+l’électricité,electricity
+la plomberie,plumbing
+la mécanique,mechanics
+la mécanique automobile,car mechanics
+le bâtiment,building
+la maçonnerie,masonry
+la décoration d’intérieur,interior decoration
+le jardinage,gardening
+le carrelage,tiling
+la peinture,painting
+la verrerie,glasswork
+la ferronnerie,ironwork
+la poterie,pottery
+l’encadrement,framing
+la maroquinerie,leatherwork
+un outil,a tool
+une boîte à outils,a toolbox
+un tournevis,a screwdriver
+une pince,pliers
+un mètre ruban,a tape measurer
+un mètre enrouleur,a rolling tape measurer
+une équerre,a square
+un compas,a compass
+un niveau à bulles,a spirit level
+un marteau,a  hammer
+une clé à molette,a wrench
+une douille,a socket
+une ampoule,a  bulb
+une prise électrique,an electrical socket
+une multiprise,a power strip
+une rallonge,an extension cord
+une vis,a screw
+un clou,a nail
+un écrou,a nut
+une cheville,a dowel
+des ciseaux,scissors
+un rabot,a plane
+un burin,a chisel
+une lime,a file
+une lame,a blade
+une râpe,a rasp
+une brosse,a brush
+un pistolet à colle,a glue gun
+une scie,a saw
+du papier de verre,sandpaper
+un décapeur,a scraper
+une décolleuse à papier peint,a wallpaper stripper
+une faucille,a sickle
+une enclume,an anvil
+un pied-de-biche,a crowbar
+une truelle,a trowel
+une hache,an axe
+une perceuse,a drill
+une visseuse,a screwdriver
+une meuleuse,a grinder
+une ponceuse,a sander
+une scie sauteuse,a jigsaw
+une scie circulaire,a circular saw
+une scie à métaux,a hacksaw
+une tronçonneuse,a chainsaw
+un chalumeau,a blowtorch
+un fer à souder,a soldering iron
+un marteau-piqueur,a jackhammer
+bois,wood
+métal,metal
+peinture,paint
+papier peint,wallpaper
+parquet,parquet
+moquette,carpeting
+plâtre,plaster
+ciment,cement
+une brique,a brick
+une palette,a pallet
+une corde,a rope
+fil,thread
+fil de fer,wire
+un rouleau à peinture,a paint roller
+un pinceau,a brush
+colle,glue
+ruban adhésif,adhesive tape
+alcool à brûler,methylated spirits
+dissolvant,nail polish remover
+une bâche,a tarp
+un joint,a joint
+un tuyau,a hose
+une brouette,a wheelbarrow
+un diable,a hand truck
+un établi,a workbench
+une échelle,a ladder
+un escabeau,a stepladder
+un étau,a vice
+une lampe frontale,a headlamp
+un masque antipoussière,a dust mask
+des lunettes de écurité,safety glasses
+réparer,to repair
+bricoler,to tinker
+rénover,to renovate
+poncer,to sand
+visser,to screw
+clouer,to nail
+peindre,to paint
+couper,to cut
+scier,to saw
+serrer ,to tighten
+desserrer,to loosen
+coller,to glue
+raboter,to plane
+détruire,to destroy
+construire,to build
+percer,to drill
+mesurer,to measure
+raccorder,to connect
+plier,to bend
+frotter,to rub

@@ -1,0 +1,39 @@
+FR,ANG
+mathématiques,mathematics
+nombre,number
+chiffre,figure, digit
+calcul,calculus
+calculer,to calculate
+calculatrice,calculator
+opération,operation
+résultat,result
+égal,equals
+total,total
+arithmétique,arithmetic      
+algèbre,algebra
+géométrie,geometry
+nombre pair,even number
+nombre impair,odd number
+nombre entier,integer
+problème,problem
+solution,solution
+équation,equation
+au carré,squared
+racine carrée,square root
+priorité des opérations,operator precedence
+division,division
+diviser,to divide
+divisé par,divided by
+le quotient,the quotient
+multiplication,multiplication
+multiplier,to multiply          
+fois,times
+le produit,the product
+soustraction,subtraction
+soustraire,to subtract
+moins, minus
+la différence,the difference
+addition,addition
+additionner,to add
+plus,plus
+la somme,the sum

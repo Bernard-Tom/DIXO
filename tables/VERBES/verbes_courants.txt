@@ -1,0 +1,38 @@
+ANG,FR
+handle sth sb,s’occuper de qlc
+forward sth,faire parvenir
+hire sb,embaucher
+hire sth,louer
+seek,chercher
+look sth up,rechercher
+look after sth,prendre soin
+look forward,to	espérer
+put sb off,décourager
+put sth off,reporter
+turn sth down,refuser
+get sb up,ever
+get sth up,trouver le courage
+break down,tomber en panne
+believe in,croire
+talk about,parler
+wait for,attendre
+get on with,s’entendre
+put up with,supporter
+run out of,épuiser
+bring sth up,évoquer
+bring sb up,élever
+carry on,continuer
+cut sth down,réduire
+keep on doing sth,continuer
+kepp sth on,garder
+make up sth,inventer
+make up with sb,réconcilier
+pick sth out,ramasser
+fill sth in,remplir
+fill in for sb,remplacer
+fill sb in,mettre au courant
+give sth back,rendre
+give sth up,abandonner
+go on,continuer
+pass out,s’évanouir
+turn into,se transformer

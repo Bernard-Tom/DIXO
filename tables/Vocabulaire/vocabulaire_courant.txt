@@ -1,0 +1,8 @@
+ANG,FR
+commute,trajet
+invoice,facture
+balance,solde
+foreign,étranger
+retailer,revendeur
+convenience,avantage
+overdue,impayé

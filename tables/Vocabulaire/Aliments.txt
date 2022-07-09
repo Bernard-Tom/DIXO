@@ -1,0 +1,25 @@
+FR,ANG
+manger,to eat 
+déguster,to enjoy
+aimer,to like
+ne pas aimer,to dislike
+savoureux,tasty
+dégoutant,disgusting
+la carte,the menu
+une entrée,a starter
+un plat,a dish
+un dessert,a dessert
+un restaurant,a restaurant
+un petit déjeuner,a breakfast
+un déjeuner,a lunch
+un diner,a dinner
+le plat du jour,the dish of the day
+une collation,a snack
+un légume,a vegetable
+un gâteau,a cake
+un fromage,a cheese
+une viande,a meat
+un poisson,a fish
+un plat traditionnel,a traditional dish
+le service,the service
+le serveur,the waiter

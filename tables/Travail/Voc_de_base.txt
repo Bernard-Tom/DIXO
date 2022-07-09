@@ -1,0 +1,52 @@
+ANG,FR
+the world of work,le monde du travail
+job,emploi
+job interview,entretien d’embauche
+salary,alaire
+boss,patron
+employee,employé
+employer,employeur
+industry,line of business : secteur d’activité
+educational background,formation
+skills,compétences
+career,carrière
+working conditions,conditions de travail
+workplace,lieu de travail
+office hours,horaires de bureau
+company,société
+job offer,offre d’emploi 
+occupation,profession
+health insurance,assurance maladie
+paid time off,congés payés
+resume,CV
+cover letter,lettre de motivation
+to hire,embaucher
+to take up a job,prendre le poste
+my current job,mon poste actuel
+gross salary,salaire brut
+net salary,salaire net
+perks,avantages
+reliable,fiable
+trustworthy,digne de confiance
+being a team player,avoir l’esprit d’équipe
+permanent employment contract,CDI
+fixed-term contract,CDD
+temporary contract,interim
+elework,télétravail
+a career,une carrière
+working conditions,les conditions de travail
+workplace,lieu de travail
+a job,un emploi
+a job interview,un entretien d’embauche
+office hours,les heures de bureau
+a job offer,une offre d’emploi
+an odd / casual job,un petit boulot
+a summer job,un job d'été
+an occupation,une profession
+a skill,une qualification
+salary wages,salaire
+salary rise,augmentation de salaire
+an internship,un stage
+a training,une formation
+a trade union,un syndicat
+unemployment,chômage

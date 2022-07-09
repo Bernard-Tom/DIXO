@@ -1,0 +1,38 @@
+ANG,FR
+a single room,une chambre simple
+a double room,une chambre double avec un lit deux personnes
+a twin room ,une chambre double avec lits jumeaux
+a triple room,une chambre pour trois personnes
+shuttle service,service de navette de l’hôtel à l’aéroport
+service charge included,prix du service inclus
+wifi access,accès wifi
+to book a room,réserver une chambre
+check in,arrivée
+check out,sortie
+vacancies,chambres libres
+a suite,une suite
+no vacancies,complet
+half board,une chambre en demi-pension
+full board,une chambre en pension complète
+A local train,un train de banlieue
+The tube,le métro londonien
+A cab,un taxi
+A bus,un bus
+A tram,un tramway
+A shuttle,une navette
+A station,une station
+A bus station,une station de bus
+A bus shelter,un arrêt de bus
+A bus stop,une station de métro
+a platform,un quai
+the driver,le conducteur
+the passenger,le passager
+a ticket,un ticket
+a fare,le prix du ticket
+rush hour,heure de pointe
+off-peak,heure creuse
+departure,départ
+arrival,arrivée
+the booking office,le guichet
+the ticket machine,la billeterie automatique
+a seat,une place
