@@ -1,4 +1,4 @@
-DIXO_V8 est une version particulière de DIXO:
+# ASSERVISSEMENT EN POSITION D’UNE MASSE SUSPENDUE À UN RESSORT À MÉMOIRE DE FORME
 
 -> Toutes les classes sont dans le fichier main.py
 -> les tables utilisées sont dans le répertoire sources:
